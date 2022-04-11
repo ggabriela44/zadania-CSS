@@ -1,0 +1,17 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+
+header{
+    background-image: url("img/header.jpg");
+    background-size:cover;
+    background-position:center;
+    background-clip: border-box;
+    height: 45vh;
+}
+
+header h1{
+    color: blue;
+    font-size: 4.2em;
+}
